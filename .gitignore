@@ -1,6 +1,22 @@
-# Build Folders (you can keep bin if you'd like, to store dlls and pdbs)
-bin
-obj
-
-# mstest test results
-TestResults
+/Calculation Pad.Core/bin
+/Calculation Pad.Core/obj
+/Calculation Pad.Core.Tests/bin
+/Calculation Pad.Core.Tests/obj
+/Calculation Pad.Reporter/bin
+/Calculation Pad.Reporter/obj
+/Calculation Pad.Reporter.Tests/bin
+/Calculation Pad.Reporter.Tests/obj
+/StructuralCalculations/bin
+/StructuralCalculations/obj
+/StructuralCalculations.Tests/bin
+/StructuralCalculations.Tests/obj
+/Calculation Pad.Core/StyleCop.Cache
+/Calculation Pad.Core/StyleCopViolations.xml
+/Calculation Pad.Reporter.MathMLPrinter/bin
+/Calculation Pad.Reporter.MathMLPrinter/obj
+/Calculation Pad.Reporter.MathMLPrinter.Tests/bin
+/Calculation Pad.Reporter.MathMLPrinter.Tests/obj
+/FluentXmlSerialization/bin
+/FluentXmlSerialization/obj
+/FluentXmlSerialization.Tests/bin
+/FluentXmlSerialization.Tests/obj
